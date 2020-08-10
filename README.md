@@ -1,10 +1,11 @@
-# algorithms
+# Algorithms
 
 This is the code i write as i learn algorithms.
 
 ## Implement binary search
 
 Source: [khanacademy](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/pc/challenge-binary-search)
+
 Complete the doSearch function so that it implements a binary search, following the pseudo-code below:
 1. Let min = 0 and max = n-1.
 2. If max < min, then stop: target is not present in array. Return -1.
