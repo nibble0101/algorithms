@@ -1,3 +1,3 @@
 # algorithms
 
-This is where i write code as i learn algorithms.
+This is the code i write as i learn algorithms.
